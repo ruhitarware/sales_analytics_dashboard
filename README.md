@@ -53,9 +53,9 @@ This project is an interactive Sales Analytics Dashboard built using Microsoft E
 
 > Upload your dashboard image as **dashboard.png** and GitHub will display it below.
 
-```markdown
+## 📷 Dashboard Preview
+
 ![Dashboard](dashboard.png)
-```
 
 ---
 

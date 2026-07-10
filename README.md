@@ -80,7 +80,7 @@ GitHub:
 https://github.com/ruhitarware
 
 LinkedIn:
-https://www.linkedin.com/in/ruhi-tarware
+www.linkedin.com/in/ruhi-tarware-
 
 ---
 ⭐ If you found this project useful, consider giving it a star!
